@@ -4,4 +4,12 @@ The mechanics of the robot are one of the most crucial parts, but it's not just 
 
 ## Common Robot Designs
 
+### Wedges
+
+### Horizontal Spinner
+
+### Vertical Spinner
+
+### Flipper
+
 ## Weapon Designs
