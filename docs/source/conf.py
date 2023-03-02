@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Conant Robotics'
+copyright = '2023, Conant Robotics'
+author = 'Conant Robotics Club 2023'
 
 release = '0.1'
 version = '0.1.0'
